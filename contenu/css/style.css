@@ -16,10 +16,12 @@
 h1 {
 	text-align: center;
 	text-shadow: 5px 5px 5px black;
+	font-family: 'vcrmono';
+	color: white;
 }
 
-*{
-	font-family: 'wd';
+#intro{
+	font-family: 'vcrmono';
 	color: white;
 }
 
