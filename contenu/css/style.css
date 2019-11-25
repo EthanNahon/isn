@@ -1,0 +1,28 @@
+@font-face{
+	font-family: vcrmono;
+	src: url("fonts/vcrmono.ttf");
+
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 5px 5px 5px black;
+}
+
+*{
+	font-family: 'vcrmono';
+	color: white;
+}
+
+#page1{
+	color:white;
+}
+
+#intro{
+	font-size: 18px;
+}
+
+mark{
+	color: black;
+	background-color:#8bd1fa;
+}
