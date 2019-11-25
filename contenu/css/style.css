@@ -1,7 +1,16 @@
 @font-face{
 	font-family: vcrmono;
 	src: url("fonts/vcrmono.ttf");
+}
 
+@font-face{
+	font-family: windows;
+	src: url("fonts/windows.ttf") format('ttf');
+}
+
+@font-face{
+	font-family: wd;
+	src: url("fonts/wd.ttf");
 }
 
 h1 {
@@ -10,7 +19,7 @@ h1 {
 }
 
 *{
-	font-family: 'vcrmono';
+	font-family: 'wd';
 	color: white;
 }
 
