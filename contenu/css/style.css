@@ -4,11 +4,6 @@
 }
 
 @font-face{
-	font-family: windows;
-	src: url("fonts/windows.ttf") format('ttf');
-}
-
-@font-face{
 	font-family: wd;
 	src: url("fonts/wd.ttf");
 }
@@ -19,6 +14,11 @@ h1 {
 	font-family: 'vcrmono';
 	color: white;
 }
+
+*{
+	font-family: 'wd';
+}
+
 
 #intro{
 	font-family: 'vcrmono';
@@ -36,4 +36,10 @@ h1 {
 mark{
 	color: black;
 	background-color:#8bd1fa;
+}
+
+
+#conteneur {
+	display: flex;
+	align-items: bottom;
 }
