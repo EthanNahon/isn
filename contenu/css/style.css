@@ -41,5 +41,26 @@ mark{
 
 #conteneur {
 	display: flex;
-	align-items: bottom;
+	align-items: bottom;	
 }
+
+.taskbar{
+	bottom: 0;
+	 padding :10px;
+	 font-size: 20px;
+	 position: fixed;
+	 width: 110%;
+	 height: 25px;
+	 margin-left: 0px;
+}
+
+.windows95 {
+	cursor: url(imgs/cursor.png), auto;
+}
+
+#taskbarbutton{
+	cursor: url(imgs/pointer.png), auto;
+	background-color: lightgray;
+	outline: none;
+}
+
