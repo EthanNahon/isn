@@ -1,66 +1,85 @@
-@font-face{
-	font-family: vcrmono;
-	src: url("fonts/vcrmono.ttf");
-}
-
-@font-face{
-	font-family: wd;
-	src: url("fonts/wd.ttf");
-}
-
 h1 {
+	float: left;
+}
+
+* {
+	color: whitesmoke;
+	font-family: Roboto;
+}
+
+
+#intro{
+	font-size: 25px;
 	text-align: center;
-	text-shadow: 5px 5px 5px black;
-	font-family: 'vcrmono';
-	color: white;
+	font-family: 'helvetica-light', sans-serif;
 }
 
-*{
-	font-family: 'wd';
+body{
+	margin:	0;
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	background: #6d7b8a;
+}
+
+header::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+nav{
+	float: right;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 30px;
+}
+
+nav a {
+	color: #bfbfbf;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: 0.3s;
+}
+
+nav a:hover{
+	color: #F5F5F5;
+}
+
+.intro {
+	padding-top: 20px;
+	width: 50%;
+	margin: auto;
+}
+
+.journal {
+	padding-top: 20px;
+	width: 60%;
+	margin: auto;
+}
+
+#journal{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'helvetica';
 }
 
 
-#intro{
-	font-family: 'vcrmono';
-	color: white;
+
+@font-face{
+	font-family: helvetica-light;
+	src: url("fonts/helvetica-light.ttf");
 }
-
-#page1{
-	color:white;
-}
-
-#intro{
-	font-size: 18px;
-}
-
-mark{
-	color: black;
-	background-color:#8bd1fa;
-}
-
-
-#conteneur {
-	display: flex;
-	align-items: bottom;	
-}
-
-.taskbar{
-	bottom: 0;
-	 padding :10px;
-	 font-size: 20px;
-	 position: fixed;
-	 width: 110%;
-	 height: 25px;
-	 margin-left: 0px;
-}
-
-.windows95 {
-	cursor: url(imgs/cursor.png), auto;
-}
-
-#taskbarbutton{
-	cursor: url(imgs/pointer.png), auto;
-	background-color: lightgray;
-	outline: none;
-}
-
