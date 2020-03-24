@@ -4,7 +4,7 @@ h1 {
 }
 
 * {
-	color: whitesmoke;
+	color: #fafdff;
 	font-family: Roboto;
 }
 
@@ -15,17 +15,21 @@ h1 {
 	font-family: 'helvetica-light', sans-serif;
 }
 
-body{
+.index {
 	margin:	0;
+	background-image: url(imgs/background.svg);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: top;
+}
+body{
+	background: rgb(255,212,67);
+	background: linear-gradient(180deg, rgba(255,212,67,1) 0%, rgba(255,99,97,1) 100%);
 }
 .container {
 	width: 80%;
 	margin: 0 auto;
-	background-color: #3489eb;
-}
-
-header {
-	background: #3489eb;
 }
 
 header::after {
@@ -58,7 +62,7 @@ nav a {
 }
 
 nav a:hover{
-	color: #F5F5F5;
+	color: #fafdff;
 }
 
 .intro {
@@ -71,7 +75,7 @@ nav a:hover{
 	padding-top: 20px;
 	width: 60%;
 	margin: auto;
-	box-shadow: 0 5px 3px #165bab;
+	box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
 	text-align: left
 }
 
