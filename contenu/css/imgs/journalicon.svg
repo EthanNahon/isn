@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="969" height="1080" viewBox="0 0 969 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484b7f;
+      }
+
+      .cls-2 {
+        fill: #ff6361;
+      }
+    </style>
+  </defs>
+  <title>journalicon</title>
+  <path class="cls-1" d="M948.57,1080H116.43A68.43,68.43,0,0,1,48,1011.57V160.72a53.44,53.44,0,0,1,53.43-53.44H948.57A68.44,68.44,0,0,1,1017,175.72v835.85A68.43,68.43,0,0,1,948.57,1080Z" transform="translate(-48 0)"/>
+  <rect class="cls-1" x="2.23" width="470.32" height="178.81" rx="57.5"/>
+  <rect class="cls-2" x="150.29" y="844.84" width="661.94" height="120.72" rx="60.36"/>
+</svg>

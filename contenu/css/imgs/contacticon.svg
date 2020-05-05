@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="963.45" height="1066.99" viewBox="0 0 963.45 1066.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484b7f;
+      }
+
+      .cls-2 {
+        fill: #ff6361;
+      }
+    </style>
+  </defs>
+  <title>contacticon</title>
+  <path class="cls-1" d="M107.72,0H463.05" transform="translate(-82.55 0)"/>
+  <path class="cls-1" d="M1046,1067c-83.75-218.7-267.88-370.65-481.72-370.65S166.3,848.29,82.55,1067Z" transform="translate(-82.55 0)"/>
+  <circle class="cls-2" cx="478.79" cy="305.38" r="292.92"/>
+</svg>

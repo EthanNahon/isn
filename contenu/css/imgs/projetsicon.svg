@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="845.16" height="1074" viewBox="0 0 845.16 1074">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #484b7f;
+      }
+
+      .cls-2 {
+        fill: #ff6361;
+      }
+    </style>
+  </defs>
+  <title>projetsicon</title>
+  <path class="cls-1" d="M107.72,0H463.05" transform="translate(-107.72 0)"/>
+  <path class="cls-2" d="M350.32,918.78H511a71,71,0,0,1,71,71v0A84.24,84.24,0,0,1,497.72,1074H363.58a84.24,84.24,0,0,1-84.24-84.24v0A71,71,0,0,1,350.32,918.78Z"/>
+  <ellipse class="cls-1" cx="432.22" cy="431.09" rx="412.94" ry="431.09"/>
+</svg>
