@@ -151,6 +151,13 @@ footer{
 
 .projet{
 	margin-top: 100px;
+	background-color: whitesmoke;
+	border-radius: 10px;
+	margin: 20px;
+}
+#projet{
+	color: #3B3B3B;
+
 }
 
 .intro2{
